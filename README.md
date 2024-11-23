@@ -16,9 +16,6 @@ I'm a Java developer since 2019, passionate about crafting software solutions, c
 - Developing a personal website to centralize my portfolio, projects, and contact information.  
 - Learning advanced techniques for distributed systems and deployment automation.  
 - Continuously fine-tuning my Arch Linux development setup.  
-## Contact Me
-- Email: [solomyuri90@gmail.com] 
-- Website: *Coming soon!*  
 ## Goals
 - Dive deeper into high-performance systems and microservices architecture.  
 - Contribute more to open-source projects and share my knowledge.  

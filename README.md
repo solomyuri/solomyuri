@@ -1,4 +1,4 @@
-# Hello, I'm @solomyuri!
+# Hello, I'm solomyuri!
 Welcome to my GitHub!
 I'm a Java developer since 2019, passionate about crafting software solutions, customizing tools, and optimizing workflows.  
 ---

@@ -14,7 +14,6 @@ I'm a Java developer since 2019, passionate about crafting software solutions, c
 - **DevOps Tools:** Docker, Kubernetes, Jenkins  
 - **Favorite IDEs:** Eclipse, IntelliJ IDEA  
 - **Operating Systems:** Arch Linux ❤️, Windows 7, Windows 10  
-I also explore and experiment with **ChatGPT** for generating ideas, solving problems, and gaining inspiration! 🤖  
 ---
 ## Current Projects
 - Developing a personal website to centralize my portfolio, projects, and contact information.  

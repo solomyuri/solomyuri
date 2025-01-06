@@ -3,7 +3,7 @@ Welcome to my GitHub!
 I'm a Java developer since 2019, passionate about crafting software solutions, customizing tools, and optimizing workflows.  
 ## About Me
 - **Java developer** specializing in enterprise applications, microservices architecture, and API integrations.  
-- A dedicated **Arch Linux** user, though I also work with **Windows 7/10**. I enjoy tailoring my development environment for optimal productivity.  
+- **I use Arch btw**.
 - Currently building my **personal portfolio website** to showcase my skills and projects.  
 ## Technologies and Tools
 - **Languages:** Java, Kotlin, SQL  
@@ -11,7 +11,7 @@ I'm a Java developer since 2019, passionate about crafting software solutions, c
 - **Databases:** PostgreSQL, Oracle  
 - **DevOps Tools:** Docker, Kubernetes, Jenkins  
 - **Favorite IDEs:** Eclipse, IntelliJ IDEA  
-- **Operating Systems:** Arch Linux ❤️, Windows 7, Windows 10  
+- **Operating Systems:** Arch Linux ❤️, Windows  
 ## Current Projects
 - Developing a personal website to centralize my portfolio, projects, and contact information.  
 - Learning advanced techniques for distributed systems and deployment automation.  

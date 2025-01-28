@@ -2,8 +2,7 @@
 Welcome to my GitHub!
 I'm a Java developer since 2019, passionate about crafting software solutions, customizing tools, and optimizing workflows.  
 ## About Me
-- **Java developer** specializing in enterprise applications, microservices architecture, and API integrations.  
-- **I use Arch btw**.
+- **Java developer** specializing in enterprise applications, microservices architecture, and API integrations. 
 - Currently building my **personal portfolio website** to showcase my skills and projects.  
 ## Technologies and Tools
 - **Languages:** Java, Kotlin, SQL  
